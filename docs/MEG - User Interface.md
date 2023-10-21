@@ -42,6 +42,8 @@ Sorting mod, using features of yUI to make inventory management a better experie
 
 - **Main Files - ySI - Sorting Icons**
 
+Requires for bSortingIcons in yUI.ini to be set to 1. Additionally, set bMatchingCursor to 1, also in yUI.ini. 
+
 
 ### [Simplified FO4 HUD](https://www.nexusmods.com/newvegas/mods/75634)
 
